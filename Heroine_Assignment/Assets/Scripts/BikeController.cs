@@ -10,6 +10,10 @@ namespace Chapter.State
         public float maxSpeed = 2.0f;
         public float turnDistance = 2.0f;
         public Rigidbody rb;
+        public MeshRenderer mr;
+        public GameObject Paige;
+        public MeshRenderer Paigemr;
+        public GameObject rave;
         public bool _isGrounded
         {
             get { return Physics.Raycast(transform.position, -Vector3.up, 1f, groundLayer); }

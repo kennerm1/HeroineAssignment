@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: e7f46a554ab3e4c45a281b01ceca28e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RaveClip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4395
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692bdd6ffac8dff45b72a96b250462b9
+      internalID: -1361555974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4395
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37dc1c273c6fff4fba43fa63255f981
+      internalID: 2026381283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4057.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b861e8435385c1d4a9d40f93d8b327da
+      internalID: -1140588475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4057.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d199a94cd9be5944bd0c1c751eeeade
+      internalID: -1633309943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3720
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037836a689b79454a95e18de77f9601b
+      internalID: 1874704477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3720
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eb5f393c6e6d648a0e4c6743126598
+      internalID: 1675071173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3382.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35e25d3d1163354b815ff432abc0abd
+      internalID: 881312529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_7
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3382.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff453017f92474d8c5bce7057414d5
+      internalID: -1900701709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3045
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59df9d34fbf66d54bb9ae955398b4adf
+      internalID: 771298970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3045
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66a25a3630ba2540911f982f1c0ee86
+      internalID: 1292213723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2707.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c81e744a6ad5474a8ff5db939fff94b
+      internalID: 838848405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_11
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2707.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503d33d2e204471458a36dca69bdd33a
+      internalID: 2146660216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2370
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc956fdf4e07f3e49b6454ce100124ae
+      internalID: 17286993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2370
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6870b63a63e830d40adf9524f90676de
+      internalID: 2038827847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2032.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc38058a6b90ef46b84a219cf38f38b
+      internalID: 1316595618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2032.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9033c486498d645bc6b19fc57699f0
+      internalID: 1355306800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1695
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb8493ff760cec4f8d81daaaf36aa6c
+      internalID: 1772819745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1695
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da81974a6cc87724d89b740775d4dbb3
+      internalID: 493177249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1357.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82e0cab138a914ab29320b1f3760e9
+      internalID: 2065041778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1357.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc48d2b7957478d459f7b8f10da66230
+      internalID: -1749564961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe761b673603c7b46b1f9dbd5ec13a4b
+      internalID: -2136477413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1020
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dadd942e0e3ead43b79d76567b5d332
+      internalID: 315390620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 682.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: edec1c9c73f189541ab26d8a77ce98e0
+      internalID: -1316503397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 682.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2568f6ba73cec40a5030476b48ccb7
+      internalID: -1925238687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cf42c0560f2b5419dd27104ff2f3a3
+      internalID: 276933057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 345
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f556fcacb3783c0409057a979942b2ef
+      internalID: -1933594015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 7.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed788105a95e00a41861a3c4816f6391
+      internalID: 129768273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaveClip_27
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 7.5
+        width: 1200
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      physicsShape:
+      - - {x: 0, y: -337.5}
+        - {x: 600, y: 0}
+        - {x: 0, y: 337.5}
+        - {x: -600, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1535c50308507f44be22d619530413a
+      internalID: 80139688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bb9a07f38d1ce3447a46915efa790240
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RaveClip_0: -1361555974
+      RaveClip_2: -1140588475
+      RaveClip_12: 17286993
+      RaveClip_22: -1316503397
+      RaveClip_16: 1772819745
+      RaveClip_20: -2136477413
+      RaveClip_3: -1633309943
+      RaveClip_23: -1925238687
+      RaveClip_13: 2038827847
+      RaveClip_26: 129768273
+      RaveClip_4: 1874704477
+      RaveClip_11: 2146660216
+      RaveClip_25: -1933594015
+      RaveClip_1: 2026381283
+      RaveClip_6: 881312529
+      RaveClip_7: -1900701709
+      RaveClip_17: 493177249
+      RaveClip_8: 771298970
+      RaveClip_24: 276933057
+      RaveClip_5: 1675071173
+      RaveClip_15: 1355306800
+      RaveClip_21: 315390620
+      RaveClip_9: 1292213723
+      RaveClip_14: 1316595618
+      RaveClip_19: -1749564961
+      RaveClip_18: 2065041778
+      RaveClip_27: 80139688
+      RaveClip_10: 838848405
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -16,7 +16,7 @@ namespace Chapter.State
             _bikeController.CurrentSpeed =
                 _bikeController.maxSpeed;
 
-            //Flash colors
+            bikeController.rave.SetActive(true);
         }
     }
 

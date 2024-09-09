@@ -17,6 +17,9 @@ namespace Chapter.State
                 _bikeController.maxSpeed;
 
             bikeController.transform.localScale = new Vector3(1, 1, 1);
+            if (bikeController.mr.enabled == false)
+                bikeController.mr.enabled = true;
+            bikeController.rave.SetActive(false);
         }
     }
 }

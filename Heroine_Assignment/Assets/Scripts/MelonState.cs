@@ -17,6 +17,8 @@ namespace Chapter.State
                 _bikeController.maxSpeed;
 
             //Add melon, kill Paige cube
+            bikeController.mr.enabled = false;
+            bikeController.Paigemr.enabled = false;
         }
     }
 
